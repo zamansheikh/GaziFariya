@@ -1,5 +1,5 @@
 #include<stdio.h>
-//userSnippedByGazui Fariya
+//userSnippedByGazi Fariya
 //! ID : 213902067
 
 int StrLen(char s[]) {
